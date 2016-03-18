@@ -1,0 +1,1 @@
+testbegin%%step%%xy%%150x1720%%click%%step%%text%%1%%click%%step%%text%%0%%click%%step%%text%%0%%click%%step%%text%%8%%click%%step%%text%%6%%click%%step%%sleep%%2%%%%step%%resource-id%%com.android.contacts:id/dial_action_view%%click%%step%%sleep%%3%%%%step%%resource-id%%com.android.incallui:id/endButton%%click%%testend

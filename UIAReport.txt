@@ -1,0 +1,156 @@
+2016-02-02 �ܶ�19:25:23.52 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ssss
+没有这个包
+释放一些资源
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 2.313
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+2016-02-02 �ܶ�19:29:49.59 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ssss
+没有这个包
+释放一些资源
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 4.435
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+2016-02-02 �ܶ�19:31:44.49 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ssss
+没有这个包
+释放一些资源
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 3.953
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+2016-02-02 �ܶ�19:31:56.47 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ssss
+2016-02-02 �ܶ�19:33:45.86 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ssss
+ss
+ss
+ss
+ss
+ss
+ss
+ss
+2016-02-02 �ܶ�19:36:18.29 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ss
+ss
+ss
+2016-02-02 �ܶ�19:36:32.69 
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stream=
+com.nubia.TestAreyouok:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=testDemo
+INSTRUMENTATION_STATUS: class=com.nubia.TestAreyouok
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+做一些前提条件的设置
+ssssss
+sssss
+ss
+ss
+ss
+ss
+ss
+ss
